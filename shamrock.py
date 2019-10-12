@@ -1,0 +1,23 @@
+import turtle as t
+t.speed(0)
+t.bgcolor("#DAA520")
+t.pensize(5)
+t.pencolor("#D8BFD8")
+t.seth(90)
+for i in range(180):
+    t.seth(90*i)
+    t.fd(60)
+    t.right(90)
+    t.circle(120,2*i)
+    t.circle(30,2*i)
+    t.goto(0,0)
+t.pensize(3)
+t.pencolor("#FFEBCD")    
+for i in range(180):
+    t.seth(90*i+45)
+    t.fd(30)
+    t.right(90)
+    t.circle(60,2*i)
+    t.circle(15,2*i)
+    t.goto(0,0)
+t.done()
