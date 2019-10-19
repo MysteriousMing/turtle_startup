@@ -22,3 +22,7 @@ rose_pentarc
 负形
 wings
 ![wings.png](https://github.com/MysteriousMing/turtle_startup/blob/master/thumbnails/wings.png)
+
+### 递归与分型
+渐变科赫雪花
+![koch.png]https://github.com/MysteriousMing/turtle_startup/blob/master/thumbnails/koch.png
