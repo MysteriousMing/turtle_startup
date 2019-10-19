@@ -25,4 +25,4 @@ wings
 
 ### 递归与分型
 渐变科赫雪花
-![koch.png]https://github.com/MysteriousMing/turtle_startup/blob/master/thumbnails/koch.png
+![koch.png](https://github.com/MysteriousMing/turtle_startup/blob/master/thumbnails/koch.png)
