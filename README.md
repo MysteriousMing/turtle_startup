@@ -5,7 +5,7 @@ import turtle as cnm,
 
 ## 项目简介
 
-个人python绘图学习记录，欢迎初学者交流学习。
+个人python绘图学习记录，欢迎初学者交流学习。刚开始的时候主要是turtle，后面就跑偏到processing了……
 
 ### 循环
 shamrock
