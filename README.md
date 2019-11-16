@@ -26,3 +26,8 @@ wings
 ### 递归与分型
 渐变科赫雪花
 ![koch.png](https://github.com/MysteriousMing/turtle_startup/blob/master/thumbnails/koch.png)
+
+
+### Processing_firework_on_fingertip
+
+processing 环境下运行，鼠标指针处会开出一朵呲喽花 :)
