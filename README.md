@@ -30,4 +30,8 @@ wings
 
 ### Processing_firework_on_fingertip
 
-processing 环境下运行，鼠标指针处会开出一朵呲喽花 :)
+processing 环境下运行，或者编译器安装processing extension + python extension 后运行，鼠标指针处会开出一朵呲喽花 :)
+
+### Processing_firework_on_fingertip
+
+processing 环境下运行，或者编译器安装processing extension + python extension 后运行，可以逗猫
